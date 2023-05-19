@@ -9,10 +9,10 @@ public class Main {
         parser.parseCompany(listOfOffers);
 
         //выводим результат
-        for (offer o:
-                listOfOffers) {
-            System.out.println(o.toString());
-        }
+//        for (offer o:
+//                listOfOffers) {
+//            System.out.println(o.toString());
+//        }
 
 
         //составление отчёта

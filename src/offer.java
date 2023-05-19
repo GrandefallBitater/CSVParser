@@ -11,6 +11,7 @@ public class offer {
 
 
 
+
     public String getCurrency() {
         return currency;
     }

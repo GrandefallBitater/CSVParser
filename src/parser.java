@@ -164,7 +164,7 @@ public class parser {
                 newDouble += ch;
             }
         }
-        System.out.println(newDouble);
+        //System.out.println(newDouble);
         return newDouble;
     }
 }
